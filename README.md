@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Laure, I'm a student in IT and Management. 
+
+:computer: I'm curently working on a personal website.
 
 <!--
 **laurebouet/laurebouet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
